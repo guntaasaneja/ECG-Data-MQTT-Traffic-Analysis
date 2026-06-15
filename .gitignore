@@ -1,0 +1,73 @@
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# C/C++
+*.o
+*.out
+*.a
+*.so
+*.dylib
+.o
+*.exe
+
+# Build files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Large packet capture files (optional - uncomment if you want to track small ones)
+# *.pcapng
+# *.pcap
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS specific
+.Spotlight-V100
+.Trashes
+._.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
